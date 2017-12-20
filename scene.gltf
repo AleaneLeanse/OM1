@@ -673,10 +673,10 @@
   ],
   "images": [
     {
-      "uri": "textures/SketchfabPBRExtractor_baseColor.jpeg"
+      "uri": "SketchfabPBRExtractor_baseColor.jpeg"
     },
     {
-      "uri": "textures/SketchfabPBRExtractor_metallicRoughness.png"
+      "uri": "SketchfabPBRExtractor_metallicRoughness.png"
     }
   ],
   "materials": [
